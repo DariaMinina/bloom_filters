@@ -1,0 +1,18 @@
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+pyvenv.cfg
+venv/
+pip-selfcheck.json
+__pycache__/
+
+# mac os
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
